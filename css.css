@@ -1,0 +1,20 @@
+body{
+    background-image: url(cupkraquedesfocado.jpg);
+    background-repeat: cover;
+    background-size: 130rem
+}
+img {
+    width: 600px;
+    border-radius: 15px;
+}
+div{
+    background-color: bisque;
+    width: 600px;
+    padding: 24px;
+    margin-left: 35%;
+    border-radius: 16px;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
